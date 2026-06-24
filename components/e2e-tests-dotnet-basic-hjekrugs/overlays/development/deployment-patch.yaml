@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/e2e-tests-dotnet-basic-hjekrugs:b527a6b1eca1600c7df915d28d783cb4931796e6
+        - image: quay.io/rhtap_qe/e2e-tests-dotnet-basic-hjekrugs:7a837f605eda2b4412325e76535ccf89df8d133e
           name: container-image
